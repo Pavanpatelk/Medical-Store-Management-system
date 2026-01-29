@@ -15,4 +15,3 @@ A console-based Medical Store Management System developed using Java, JDBC, and 
 - **Coading lenguage:** JAVA
 - **Database:** MySQL(XAMPP)
 - **Version Control:** Git & GitHub
-- 
