@@ -7,7 +7,6 @@ A console-based Medical Store Management System developed using Java, JDBC, and 
 - Medicine inventory management
 - Billing system with text-file invoice generation
 - MySQL database integration
-- Clean and modular Flask architecture
 
 ---
 
